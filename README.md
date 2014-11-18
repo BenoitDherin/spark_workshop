@@ -1,5 +1,5 @@
-spark_workshop
-==============
+Spark Installation Instructions
+===============================
 
 1) Download spark from here: http://spark.apache.org/downloads.html 
 hadoop1 is fine
