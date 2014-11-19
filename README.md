@@ -1,3 +1,5 @@
+####[Presentation materials available here](https://docs.google.com/a/radius.com/presentation/d/17TCAssgMWIj2IxuePbFh3c4IMQbNOHC3X36Jt6K_6qc/view)
+
 Spark Installation Instructions
 ===============================
 
