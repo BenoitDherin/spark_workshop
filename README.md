@@ -1,4 +1,5 @@
-####[Presentation materials available here](https://docs.google.com/a/radius.com/presentation/d/17TCAssgMWIj2IxuePbFh3c4IMQbNOHC3X36Jt6K_6qc/view)
+###[Presentation recording]https://radius-1.wistia.com/medias/6o2he2tyim
+####[Presentation slides available here](https://docs.google.com/a/radius.com/presentation/d/17TCAssgMWIj2IxuePbFh3c4IMQbNOHC3X36Jt6K_6qc/view)
 
 Spark Installation Instructions
 ===============================
